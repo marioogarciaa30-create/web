@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260405130248C8COOY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260405130248CLFZ0M</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>L&apos;intierru del &quot;bro&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA para 2º de Bachillerato (Llingua Asturian)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mario García Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775386360736</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>42a5509b-2c19-4d87-ae03-61c1ff227820</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775060425537-jx4d8meja</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>L&apos;intierru del &quot;bro&quot;</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>L&apos;intierru del &quot;bro&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>L&apos;intierru del &quot;bro&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775060425537-jx4d8meja</odePageId>
+      <odeBlockId>block-1775060454462-ypdv4vaqc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775060425537-jx4d8meja</odePageId>
+          <odeBlockId>block-1775060454462-ypdv4vaqc</odeBlockId>
+          <odeIdeviceId>idevice-1775060454458-7j98ek4hs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;">Concrección curricular. <em>L'intierru del "bro"</em></h1>
+<p style="text-align: justify;">La presente situación de aprendizaje se plantea como un proyecto con el que se trata de lograr el siguiente desafío: desterrar de nuestro instituto el uso de vocativo anglófono "bro" e inculcar vocativos diatópicamente propios de Asturias, tales como "manín", "monín" o "nin", cuyo contenido léxico, además, es idéntico al ya mencionado "bro". </p>
+<p style="text-align: justify;">Tras esta sucinta introducción, en las siguientes subpáginas se describen las características curriculares de esta Situación de Aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775060454458-7j98ek4hs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\">Concrección curricular. <em>L'intierru del \"bro\"</em></h1>\n<p style=\"text-align: justify;\">La presente situación de aprendizaje se plantea como un proyecto con el que se trata de lograr el siguiente desafío: desterrar de nuestro instituto el uso de vocativo anglófono \"bro\" e inculcar vocativos diatópicamente propios de Asturias, tales como \"manín\", \"monín\" o \"nin\", cuyo contenido léxico, además, es idéntico al ya mencionado \"bro\". </p>\n<p style=\"text-align: justify;\">Tras esta sucinta introducción, en las siguientes subpáginas se describen las características curriculares de esta Situación de Aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775379439927-eh75bulam</odePageId>
+  <odeParentPageId>page-1775060425537-jx4d8meja</odeParentPageId>
+  <pageName>Etapa educativa</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Etapa educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775379439927-eh75bulam</odePageId>
+      <odeBlockId>block-1775379443344-kzats3xy3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775379439927-eh75bulam</odePageId>
+          <odeBlockId>block-1775379443344-kzats3xy3</odeBlockId>
+          <odeIdeviceId>idevice-1775379443341-0wvfr26zc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Etapa educativa</h2>
+<p style="text-align: justify;">La presente situación de aprendizaje estará dirigida a los cursos de bachillerato, etapa educativa que hemos elegido por las siguientes razones:</p>
+<ul>
+<li style="text-align: justify;">No solo se tratará de impartir ciertos contenidos gramaticales -los vocativos asturiano- sino también se trata de que el alumnado reflexione sobre ciertos aspectos y usos lingüísticos. Todo ello requiere de un nivel idiomático avanzado en lengua asturiana.</li>
+<li style="text-align: justify;">Por otro lado, la realización de un vídeo que podrá ser mostrado a todo el instituto concuerda más con la seguridad y la confianza de la que participan el alumnado de bachillerato.</li>
+</ul>
+<p style="text-align: justify;">En nuestro caso, se ha escogido al grupo de 2º de Bachillerato, ya que se trata de un grupo de cuatro alumnos y una alumna, una ratio idónea para que toda la clase realice las diferentes tareas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775379443341-0wvfr26zc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Etapa educativa</h2>\n<p style=\"text-align: justify;\">La presente situación de aprendizaje estará dirigida a los cursos de bachillerato, etapa educativa que hemos elegido por las siguientes razones:</p>\n<ul>\n<li style=\"text-align: justify;\">No solo se tratará de impartir ciertos contenidos gramaticales -los vocativos asturiano- sino también se trata de que el alumnado reflexione sobre ciertos aspectos y usos lingüísticos. Todo ello requiere de un nivel idiomático avanzado en lengua asturiana.</li>\n<li style=\"text-align: justify;\">Por otro lado, la realización de un vídeo que podrá ser mostrado a todo el instituto concuerda más con la seguridad y la confianza de la que participan el alumnado de bachillerato.</li>\n</ul>\n<p style=\"text-align: justify;\">En nuestro caso, se ha escogido al grupo de 2º de Bachillerato, ya que se trata de un grupo de cuatro alumnos y una alumna, una ratio idónea para que toda la clase realice las diferentes tareas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775379971010-0xz38rqx7</odePageId>
+  <odeParentPageId>page-1775060425537-jx4d8meja</odeParentPageId>
+  <pageName>Áreas, materia y módulos implicados</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Áreas, materia y módulos implicados</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775379971010-0xz38rqx7</odePageId>
+      <odeBlockId>block-1775379973125-ac3c3y156</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775379971010-0xz38rqx7</odePageId>
+          <odeBlockId>block-1775379973125-ac3c3y156</odeBlockId>
+          <odeIdeviceId>idevice-1775379973124-5dcrwaw02</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Áreas, materias y módulos implicados</h1>
+<p style="text-align: justify;">Si bien podríamos restringir el alcance de esta situación de aprendizaje a la asignatura de Lengua Asturiana y Literatura, el uso de medios digitales nos advierte de la relación con la asignatura de TIC.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775379973124-5dcrwaw02","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Áreas, materias y módulos implicados</h1>\n<p style=\"text-align: justify;\">Si bien podríamos restringir el alcance de esta situación de aprendizaje a la asignatura de Lengua Asturiana y Literatura, el uso de medios digitales nos advierte de la relación con la asignatura de TIC.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775380144609-vaxuoel3q</odePageId>
+  <odeParentPageId>page-1775060425537-jx4d8meja</odeParentPageId>
+  <pageName>Agrupamientos y organización espacial</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Agrupamientos y organización espacial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775380144609-vaxuoel3q</odePageId>
+      <odeBlockId>block-1775380147126-0tsytbp5r</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775380144609-vaxuoel3q</odePageId>
+          <odeBlockId>block-1775380147126-0tsytbp5r</odeBlockId>
+          <odeIdeviceId>idevice-1775380147125-cmjo8z02j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Agrupamientos </h1>
+<p>Las tareas planteadas recurrirán a dos tipologías de agrupamientos:</p>
+<ul>
+<li style="text-align: justify;"><strong>Trabajo individual</strong>. Como veremos a continuación, se confiere cierta importancia a la independencia de cada alumno y alumna, sobre todo, en las actividades relativas al conocimiento y a la reflexión sobre la lengua.</li>
+<li style="text-align: justify;"><strong>Trabajo en grupo</strong>. Anteriormente, hemos mencionado que nuestra clase de 2º de bachillerato está conformada por cinco estudiantes. Por tanto, el diseño del vídeo y el diseño de los carteles publicitarios se llevará a cabo mediante el trabajo cooperativo. DE modo que se configurará un único equipo en toda la clase.</li>
+</ul>
+<p></p>
+<h1>Espacio</h1>
+<p style="text-align: justify;">La mayor parte de las tareas se realizarán tanto en el aula de referencia como en el aula de ordenadores del centro, la cual se destinará a la producción de los diferentes productos requeridos y a la búsqueda de información. No obstante, para que resulte más interactivo, la grabación del vídeo final podrá llevarse a cabo por diferentes estancias del centro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775380147125-cmjo8z02j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Agrupamientos </h1>\n<p>Las tareas planteadas recurrirán a dos tipologías de agrupamientos:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Trabajo individual</strong>. Como veremos a continuación, se confiere cierta importancia a la independencia de cada alumno y alumna, sobre todo, en las actividades relativas al conocimiento y a la reflexión sobre la lengua.</li>\n<li style=\"text-align: justify;\"><strong>Trabajo en grupo</strong>. Anteriormente, hemos mencionado que nuestra clase de 2º de bachillerato está conformada por cinco estudiantes. Por tanto, el diseño del vídeo y el diseño de los carteles publicitarios se llevará a cabo mediante el trabajo cooperativo. DE modo que se configurará un único equipo en toda la clase.</li>\n</ul>\n<p></p>\n<h1>Espacio</h1>\n<p style=\"text-align: justify;\">La mayor parte de las tareas se realizarán tanto en el aula de referencia como en el aula de ordenadores del centro, la cual se destinará a la producción de los diferentes productos requeridos y a la búsqueda de información. No obstante, para que resulte más interactivo, la grabación del vídeo final podrá llevarse a cabo por diferentes estancias del centro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775381207755-x8kpbxnkt</odePageId>
+  <odeParentPageId>page-1775060425537-jx4d8meja</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775381207755-x8kpbxnkt</odePageId>
+      <odeBlockId>block-1775381210103-3sn0w7nlh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775381207755-x8kpbxnkt</odePageId>
+          <odeBlockId>block-1775381210103-3sn0w7nlh</odeBlockId>
+          <odeIdeviceId>idevice-1775381210101-28hkn2e68</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Temporalización </h1>
+<p><em>L'intierru del "bro"</em> se realizará en las siguientes sesiones:</p>
+<table border="1" style="width: 100%; height: 261px;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 12.3328%; text-align: center; height: 33px;"><strong>SESIÓN</strong></td>
+<td style="width: 23.0312%; text-align: center; height: 33px;"><strong>FECHA APROX.</strong></td>
+<td style="width: 21.5453%; text-align: center; height: 33px;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 17.8381%; text-align: center; height: 33px;"><strong>ESPACIO</strong></td>
+<td style="width: 25.1039%; text-align: center; height: 33px;"><strong>TAREA</strong></td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 12.3328%; text-align: center; height: 57px;"><strong>1ª</strong></td>
+<td style="width: 23.0312%; text-align: center; height: 57px;">15 de abril</td>
+<td style="width: 21.5453%; text-align: center; height: 57px;">Individual</td>
+<td style="width: 17.8381%; text-align: center; height: 57px;">Aula de referencia</td>
+<td style="width: 25.1039%; height: 57px; text-align: justify;">Visualización y reflexión de materiales audiovisuales.</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 12.3328%; text-align: center; height: 57px;"><strong>2ª</strong></td>
+<td style="width: 23.0312%; text-align: center; height: 57px;">16 de abril</td>
+<td style="width: 21.5453%; text-align: center; height: 57px;">Individual</td>
+<td style="width: 17.8381%; text-align: center; height: 57px;">Aula de ordenadores</td>
+<td style="width: 25.1039%; height: 57px;">Realización de la infografía.</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 12.3328%; text-align: center; height: 57px;"><strong>3ª</strong></td>
+<td style="width: 23.0312%; text-align: center; height: 57px;">17 de abril</td>
+<td style="width: 21.5453%; text-align: center; height: 57px;">Trabajo cooperativo</td>
+<td style="width: 17.8381%; height: 57px; text-align: center;">Aula de ordenadores</td>
+<td style="width: 25.1039%; height: 57px;">Creación del cartel  publicitario.</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 12.3328%; text-align: center; height: 57px;"><strong>4ª y 5ª</strong></td>
+<td style="width: 23.0312%; text-align: center; height: 57px;">22 y 23 de abril</td>
+<td style="width: 21.5453%; text-align: center; height: 57px;">Trabajo cooperativo</td>
+<td style="width: 17.8381%; height: 57px; text-align: center;">Aula de ordenadores</td>
+<td style="width: 25.1039%; height: 57px;">Diseño y grabación del vídeo.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775381210101-28hkn2e68","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Temporalización </h1>\n<p><em>L'intierru del \"bro\"</em> se realizará en las siguientes sesiones:</p>\n<table border=\"1\" style=\"width: 100%; height: 261px;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 12.3328%; text-align: center; height: 33px;\"><strong>SESIÓN</strong></td>\n<td style=\"width: 23.0312%; text-align: center; height: 33px;\"><strong>FECHA APROX.</strong></td>\n<td style=\"width: 21.5453%; text-align: center; height: 33px;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 17.8381%; text-align: center; height: 33px;\"><strong>ESPACIO</strong></td>\n<td style=\"width: 25.1039%; text-align: center; height: 33px;\"><strong>TAREA</strong></td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 12.3328%; text-align: center; height: 57px;\"><strong>1ª</strong></td>\n<td style=\"width: 23.0312%; text-align: center; height: 57px;\">15 de abril</td>\n<td style=\"width: 21.5453%; text-align: center; height: 57px;\">Individual</td>\n<td style=\"width: 17.8381%; text-align: center; height: 57px;\">Aula de referencia</td>\n<td style=\"width: 25.1039%; height: 57px; text-align: justify;\">Visualización y reflexión de materiales audiovisuales.</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 12.3328%; text-align: center; height: 57px;\"><strong>2ª</strong></td>\n<td style=\"width: 23.0312%; text-align: center; height: 57px;\">16 de abril</td>\n<td style=\"width: 21.5453%; text-align: center; height: 57px;\">Individual</td>\n<td style=\"width: 17.8381%; text-align: center; height: 57px;\">Aula de ordenadores</td>\n<td style=\"width: 25.1039%; height: 57px;\">Realización de la infografía.</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 12.3328%; text-align: center; height: 57px;\"><strong>3ª</strong></td>\n<td style=\"width: 23.0312%; text-align: center; height: 57px;\">17 de abril</td>\n<td style=\"width: 21.5453%; text-align: center; height: 57px;\">Trabajo cooperativo</td>\n<td style=\"width: 17.8381%; height: 57px; text-align: center;\">Aula de ordenadores</td>\n<td style=\"width: 25.1039%; height: 57px;\">Creación del cartel  publicitario.</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 12.3328%; text-align: center; height: 57px;\"><strong>4ª y 5ª</strong></td>\n<td style=\"width: 23.0312%; text-align: center; height: 57px;\">22 y 23 de abril</td>\n<td style=\"width: 21.5453%; text-align: center; height: 57px;\">Trabajo cooperativo</td>\n<td style=\"width: 17.8381%; height: 57px; text-align: center;\">Aula de ordenadores</td>\n<td style=\"width: 25.1039%; height: 57px;\">Diseño y grabación del vídeo.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775382073071-341m6h80l</odePageId>
+  <odeParentPageId>page-1775060425537-jx4d8meja</odeParentPageId>
+  <pageName>Productos del alumnado</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Productos del alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775382073071-341m6h80l</odePageId>
+      <odeBlockId>block-1775382075147-lkwwj3qxt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775382073071-341m6h80l</odePageId>
+          <odeBlockId>block-1775382075147-lkwwj3qxt</odeBlockId>
+          <odeIdeviceId>idevice-1775382075146-5vhem94k6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Productos del alumnado</h1>
+<p>Acorde con las tareas planteadas, el alumnado deberá presentar tres productos:</p>
+<ul>
+<li style="text-align: justify;">En primer lugar, uno de ellos será la <strong>infografía </strong>realizada a partir de manuales de gramática asturiana. Esta se alza como una buena evidencia de aprendizaje relativa al criterio 9.3.</li>
+<li style="text-align: justify;">En segundo lugar, el <strong>cartel publicitario</strong> será otro producto que el alumnado ha de crear. Este enlaza con los criterios de evaluación relativos a la producción escrita, es decir, los incluidos por la Competencia Específica número 5.</li>
+<li style="text-align: justify;">Y, por último, el <strong>vídeo final </strong>es el producto primordial, en el que se evaluarán criterios como el 3.1., emparentado con la producción oral, y el 6.1, que engarza con la creación de trabajos de investigación.</li>
+</ul>
+<p>No obstante, otra evidencia de aprendizaje será también la reflexión inicial que el alumnado ha de llevar a cabo a partir de los vídeos iniciales que presentaremos en la primera sesión. De ahí que se evalúe también criterios relativos a la diversidad lingüística y a la comprensión oral.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775382075146-5vhem94k6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Productos del alumnado</h1>\n<p>Acorde con las tareas planteadas, el alumnado deberá presentar tres productos:</p>\n<ul>\n<li style=\"text-align: justify;\">En primer lugar, uno de ellos será la <strong>infografía </strong>realizada a partir de manuales de gramática asturiana. Esta se alza como una buena evidencia de aprendizaje relativa al criterio 9.3.</li>\n<li style=\"text-align: justify;\">En segundo lugar, el <strong>cartel publicitario</strong> será otro producto que el alumnado ha de crear. Este enlaza con los criterios de evaluación relativos a la producción escrita, es decir, los incluidos por la Competencia Específica número 5.</li>\n<li style=\"text-align: justify;\">Y, por último, el <strong>vídeo final </strong>es el producto primordial, en el que se evaluarán criterios como el 3.1., emparentado con la producción oral, y el 6.1, que engarza con la creación de trabajos de investigación.</li>\n</ul>\n<p>No obstante, otra evidencia de aprendizaje será también la reflexión inicial que el alumnado ha de llevar a cabo a partir de los vídeos iniciales que presentaremos en la primera sesión. De ahí que se evalúe también criterios relativos a la diversidad lingüística y a la comprensión oral.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775382747313-dsjf7ht2j</odePageId>
+  <odeParentPageId>page-1775060425537-jx4d8meja</odeParentPageId>
+  <pageName>Herramientas tecnológicas</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas tecnológicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775382747313-dsjf7ht2j</odePageId>
+      <odeBlockId>block-1775382749323-jgq9zm7uy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775382747313-dsjf7ht2j</odePageId>
+          <odeBlockId>block-1775382749323-jgq9zm7uy</odeBlockId>
+          <odeIdeviceId>idevice-1775382749321-52v3iqsgi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Herramientas tecnológicas</h1>
+<p>En cada una de las sesiones, se explotarán diferentes herramientas tecnológicas:</p>
+<ul>
+<li style="text-align: justify;">De un lado, en la primera sesión, recurriremos a dos vídeos de la cuenta <strong>"Ser asturianu"</strong>. Estos materiales servirán para recoger evidencias de la comprensión oral del alumnado, así como para despertar ciertas nociones relacionadas con la reflexión sobre la lengua. Además, para guiar y nutrir estas opiniones, se utilizará una presentación en <strong>Mentimeter </strong>donde se vuelquen y se visualicen las consideraciones del alumnado.</li>
+<li style="text-align: justify;">De otro lado, para infografía, se pedirá a nuestros y nuestras estudiantes que la elaboren en <strong>Canva</strong>, misma herramienta con la que se creará el cartel publicitario. Ahora bien, para este último recurriremos a una sesión compartida.</li>
+<li style="text-align: justify;">Finalmente, en lo que se refiere a la edición del vídeo, se podrán utilizar programas como <strong>Capcut</strong>.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775382749321-52v3iqsgi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Herramientas tecnológicas</h1>\n<p>En cada una de las sesiones, se explotarán diferentes herramientas tecnológicas:</p>\n<ul>\n<li style=\"text-align: justify;\">De un lado, en la primera sesión, recurriremos a dos vídeos de la cuenta <strong>\"Ser asturianu\"</strong>. Estos materiales servirán para recoger evidencias de la comprensión oral del alumnado, así como para despertar ciertas nociones relacionadas con la reflexión sobre la lengua. Además, para guiar y nutrir estas opiniones, se utilizará una presentación en <strong>Mentimeter </strong>donde se vuelquen y se visualicen las consideraciones del alumnado.</li>\n<li style=\"text-align: justify;\">De otro lado, para infografía, se pedirá a nuestros y nuestras estudiantes que la elaboren en <strong>Canva</strong>, misma herramienta con la que se creará el cartel publicitario. Ahora bien, para este último recurriremos a una sesión compartida.</li>\n<li style=\"text-align: justify;\">Finalmente, en lo que se refiere a la edición del vídeo, se podrán utilizar programas como <strong>Capcut</strong>.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775383255149-ytfpfaffz</odePageId>
+  <odeParentPageId>page-1775060425537-jx4d8meja</odeParentPageId>
+  <pageName>Fuentes de información</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fuentes de información</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775383255149-ytfpfaffz</odePageId>
+      <odeBlockId>block-1775384033038-xxqv8h6r5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775383255149-ytfpfaffz</odePageId>
+          <odeBlockId>block-1775384033038-xxqv8h6r5</odeBlockId>
+          <odeIdeviceId>idevice-1775384033029-rm6f4oerl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Fuentes de información</h1>
+<p>Estas son las fuentes de información primordiales de nuestro trabajo.</p>
+<ul>
+<li><em>Averamientu a la llingua asturiana</em>, Ramón d'Andrés</li>
+<li><em>Gramática de la Llingua Asturiana</em>, Academia de la Llingua Asturiana</li>
+<li>Vídeos elaborados por la cuenta "Ser asturianu"</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775384033029-rm6f4oerl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Fuentes de información</h1>\n<p>Estas son las fuentes de información primordiales de nuestro trabajo.</p>\n<ul>\n<li><em>Averamientu a la llingua asturiana</em>, Ramón d'Andrés</li>\n<li><em>Gramática de la Llingua Asturiana</em>, Academia de la Llingua Asturiana</li>\n<li>Vídeos elaborados por la cuenta \"Ser asturianu\"</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775063188219-1alswroy8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775063188219-1alswroy8</odePageId>
+      <odeBlockId>block-1775063188219-fika3p4hx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775063188219-1alswroy8</odePageId>
+          <odeBlockId>block-1775063188219-fika3p4hx</odeBlockId>
+          <odeIdeviceId>idevice-1775063188220-4zvbywlxg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><strong>Intención educativa</strong></h3>
+<p style="text-align: justify;"><em>L'intierru del "bro"</em> es una situación de aprendizaje cuya propuesta radica en abordar contenidos gramaticales en lengua asturiana desde un plano real y tangible. De este modo, los saberes lingüísticos -el vocativo enfático, el diminutivo- habrán de ser plasmados en diferentes infografías. A todo ello se unen contenidos relativos a la dialectología, pues apelativos como "ne" o "nin" no se emplean en todo el espectro asturiano, de ahí que tengan que estudiar cuál es el área de dominio de todos ellos. Por último, para irradiar el mensaje por el centro educativo, volcarán la información en un vídeo, en el que expondrán cuáles son los resultados de su investigación a la vez que utilizan recursos argumentativos para convencer a los destinatarios del vídeo. Con todo ello, se concienciará al alumnado de la relevancia de que estas formas lingüísticas se conserven con vitalidad, puesto que forman parte de nuestra identidad.</p>
+<h3 style="text-align: justify;">Relación con los ODS</h3>
+<p style="text-align: justify;"><strong>ODS 4</strong>: Se promueve una educación contextualizada y significativa, conectada con la realidad lingüística del alumnado.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/ods 4.png" width="116" height="116" alt="" /></p>
+<p style="text-align: justify;"><strong>ODS 10</strong>: Se da visibilidad a una lengua tan minorizada como la asturiana, que llega a equipararse con otros códigos tan prestigiosos como el inglés.</p>
+<p><img src="{{context_path}}/content/resources/ods 10.jpg" width="123" height="123" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;"><strong>ODS 11</strong>: Se incluye la protección del patrimonio cultural inmaterial, al que podemos adscribir la lengua asturiana y sus particularidades.</p>
+<p><img src="{{context_path}}/content/resources/ods 11.png" width="134" height="134" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3 style="text-align: justify;">Retos del siglo XXI</h3>
+<ul>
+<li>Desarrollar un espíritu crítico, empático y proactivo para detectar situaciones de inequidad y exclusión a partir de la comprensión de las causas complejas que las originan.</li>
+<li>Analizar de manera crítica y aprovechar las oportunidades de todo tipo que ofrece la sociedad actual, en particular las de la cultura en la era digital, evaluando sus beneficios y riesgos y haciendo un uso ético y responsable que contribuya a la mejora de la calidad de vida personal y colectiva.</li>
+<li>Cooperar y convivir en sociedades abiertas y cambiantes, valorando la diversidad personal y cultural como fuente de riqueza e interesándose por otras lenguas y culturas.</li>
+<li>Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775063188220-4zvbywlxg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><strong>Intención educativa</strong></h3>\n<p style=\"text-align: justify;\"><em>L'intierru del \"bro\"</em> es una situación de aprendizaje cuya propuesta radica en abordar contenidos gramaticales en lengua asturiana desde un plano real y tangible. De este modo, los saberes lingüísticos -el vocativo enfático, el diminutivo- habrán de ser plasmados en diferentes infografías. A todo ello se unen contenidos relativos a la dialectología, pues apelativos como \"ne\" o \"nin\" no se emplean en todo el espectro asturiano, de ahí que tengan que estudiar cuál es el área de dominio de todos ellos. Por último, para irradiar el mensaje por el centro educativo, volcarán la información en un vídeo, en el que expondrán cuáles son los resultados de su investigación a la vez que utilizan recursos argumentativos para convencer a los destinatarios del vídeo. Con todo ello, se concienciará al alumnado de la relevancia de que estas formas lingüísticas se conserven con vitalidad, puesto que forman parte de nuestra identidad.</p>\n<h3 style=\"text-align: justify;\">Relación con los ODS</h3>\n<p style=\"text-align: justify;\"><strong>ODS 4</strong>: Se promueve una educación contextualizada y significativa, conectada con la realidad lingüística del alumnado.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/ods 4.png\" width=\"116\" height=\"116\" alt=\"\" /></p>\n<p style=\"text-align: justify;\"><strong>ODS 10</strong>: Se da visibilidad a una lengua tan minorizada como la asturiana, que llega a equipararse con otros códigos tan prestigiosos como el inglés.</p>\n<p><img src=\"{{context_path}}/content/resources/ods 10.jpg\" width=\"123\" height=\"123\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: justify;\"><strong>ODS 11</strong>: Se incluye la protección del patrimonio cultural inmaterial, al que podemos adscribir la lengua asturiana y sus particularidades.</p>\n<p><img src=\"{{context_path}}/content/resources/ods 11.png\" width=\"134\" height=\"134\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<h3 style=\"text-align: justify;\">Retos del siglo XXI</h3>\n<ul>\n<li>Desarrollar un espíritu crítico, empático y proactivo para detectar situaciones de inequidad y exclusión a partir de la comprensión de las causas complejas que las originan.</li>\n<li>Analizar de manera crítica y aprovechar las oportunidades de todo tipo que ofrece la sociedad actual, en particular las de la cultura en la era digital, evaluando sus beneficios y riesgos y haciendo un uso ético y responsable que contribuya a la mejora de la calidad de vida personal y colectiva.</li>\n<li>Cooperar y convivir en sociedades abiertas y cambiantes, valorando la diversidad personal y cultural como fuente de riqueza e interesándose por otras lenguas y culturas.</li>\n<li>Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775125468703-sz19x9toh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775125468703-sz19x9toh</odePageId>
+      <odeBlockId>block-1775125473343-3ap0ehek7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775125468703-sz19x9toh</odePageId>
+          <odeBlockId>block-1775125473343-3ap0ehek7</odeBlockId>
+          <odeIdeviceId>idevice-1775125473341-val567oy6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>2. Elementos curriculares</h1>
+<h2>2.1. Competencias Clave y Descriptores Operativos</h2>
+<p style="text-align: justify;">Esta situación de aprendizaje se relaciona con las siguientes Competencias Clave y, a su vez, con algunos de sus Descriptores Operativos:</p>
+<ul>
+<li style="text-align: justify;">Competencia en Comunicación Lingüística: CC1, CCL2, CCL3, CCL5.</li>
+<li style="text-align: justify;">Competencia Plurilingüe: CP1, CP2, CP3.</li>
+<li style="text-align: justify;">Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería: STEM1, STEM2, STEM4.</li>
+<li style="text-align: justify;">Competencia Digital: CD1, CD2, CD3, CD4.</li>
+<li style="text-align: justify;">Competencia Personal, Social y de Aprender a Aprender: CPSAA4, CPSAA5.</li>
+<li style="text-align: justify;">Competencia Ciudadana: CC1, CC3.</li>
+<li style="text-align: justify;">Competencia Emprendedora: CE3.</li>
+<li style="text-align: justify;">Competencia en Conciencia y Expresión Culturales: CCEC1.</li>
+</ul>
+<h2>2.2. Competencias Específicas</h2>
+<p style="text-align: justify;"><strong>Competencia específica 1</strong>. Explicar y apreciar la diversidad lingüística del mundo y de Asturias a partir del conocimiento de la realidad lingüística y cultural de nuestra comunidad autónoma y la riqueza de sus lenguas y variantes lingüísticas, así como de la reflexión sobre los fenómenos del contacto entre lenguas, para favorecer la reflexión interlingüística, refutar los estereotipos y<br />prejuicios lingüísticos y valorar esta diversidad como fuente de patrimonio cultural. <br /></p>
+<p style="text-align: justify;"><strong>Competencia específica 2</strong>. Comprender e interpretar textos orales y multimodales en asturiano, con especial atención a los textos académicos y de los medios de comunicación, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emisor y valorando su fiabilidad, su forma y su contenido, para construir conocimiento, formarse opinión y ensanchar las posibilidades de disfrute y ocio. </p>
+<p style="text-align: justify;"><strong>Competencia específica 3</strong>. Producir textos orales y multimodales en asturiano, con atención preferente a textos de carácter académico, con rigor, coherencia, fluidez y el registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales, como para intervenir de manera activa e informada en diferentes contextos sociales. <br /></p>
+<p style="text-align: justify;"><strong>Competencia específica 5</strong>. Producir textos escritos y multimodales en asturiano, coherentes, cohesionados, adecuados y correctos, con especial atención a los géneros discursivos del ámbito académico, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas. </p>
+<p style="text-align: justify;"><strong>Competencia específica 6</strong>. Seleccionar y contrastar información procedente de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual, especialmente en el marco de la realización de trabajos de investigación sobre temas del currículo o vinculados a las obras literarias leídas. </p>
+<p style="text-align: justify;"><strong>Competencia específica 9.</strong> Consolidar y profundizar en el conocimiento explícito y sistemático sobre la estructura de la lengua y sus usos, y reflexionar de manera autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conciencia lingüística, aumentar el repertorio comunicativo y mejorar las destrezas tanto de producción oral y escrita como de recepción crítica. <br /></p>
+<p style="text-align: justify;"><br /></p>
+<h2 style="text-align: justify;">2.3. Criterios de Evaluación</h2>
+<p><strong>1.2.</strong> Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, a partir de la exploración y reflexión en torno a los fenómenos del contacto entre lenguas, con especial atención al papel de las redes sociales y los medios de comunicación, y de la investigación sobre los derechos lingüísticos y diversos modelos de convivencia entre lenguas.</p>
+<p style="text-align: justify;"><strong>2.1.</strong> Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales complejos propios de diferentes ámbitos, analizando la interacción entre los diferentes códigos. </p>
+<p style="text-align: justify;"><strong>3.1.</strong> Realizar exposiciones y argumentaciones orales formales en lengua asturiana con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social, ajustándose a las convenciones propias de cada género discursivo y con la fluidez, el rigor, la coherencia y el registro adecuado, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales. </p>
+<p style="text-align: justify;"><strong>5.1</strong>. Elaborar textos académicos coherentes, cohesionados y con el registro adecuado en lengua asturiana en torno a temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal, y de redacción y revisión de borradores entre iguales o utilizando otros instrumentos de consulta.</p>
+<p style="text-align: justify;"><strong>5.2</strong>. Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical, atendiendo especialmente a las posibles interferencias que se puedan dar entre lenguas. <br /></p>
+<p style="text-align: justify;"><strong>6.1.</strong> Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre temas curriculares de interés cultural que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes; calibrar su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual. </p>
+<p style="text-align: justify;"><strong>9.3.</strong> Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas. <br /></p>
+<p style="text-align: justify;"><br /></p>
+<h2 style="text-align: justify;">2.4. Saberes básicos</h2>
+<p><strong>Bloque A. <em>Las lenguas y sus hablantes.</em></strong></p>
+<ul>
+<li>Las lenguas de Asturias y sus variedades: desarrollo sociohistórico y situación actual. </li>
+<li>Estrategias avanzadas de la reflexión interlingüística. </li>
+<li>Los fenómenos del contacto entre lenguas: bilingüismo, préstamos, interferencias, hibridación, sustitución.</li>
+</ul>
+<p><strong>Bloque B. <em>Comunicación</em>.</strong></p>
+<ul>
+<li style="text-align: justify;">Interacción oral y escrita de carácter formal. Cooperación conversacional y cortesía lingüística.</li>
+<li style="text-align: justify;">Comprensión oral: sentido global del texto y relación entre sus partes, selección y retención de la información relevante. La intención del emisor.</li>
+<li style="text-align: justify;">Producción oral formal. Planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales. Rasgos discursivos y lingüísticos de la oralidad formal.<br /></li>
+<li style="text-align: justify;">Alfabetización informacional. Búsqueda autónoma y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de la información reelaborada de manera creativa y respetuosa con la propiedad intelectual. La gestión de contenidos, el almacenamiento y la recuperación de la información relevante.</li>
+</ul>
+<p><strong>Bloque D. <em>Reflexión sobre la lengua</em>.</strong></p>
+<ul>
+<li style="text-align: justify;">Construcción de conclusiones propias sobre el sistema lingüístico. Observación, comparación y clasificación de unidades comunicativas. Manipulación de estructuras, formulación de hipótesis, contraejemplos, generalizaciones y contraste entre lenguas con el uso del metalenguaje específico.</li>
+<li style="text-align: justify;">Uso autónomo de diccionarios, manuales de gramática y otras fuentes de consulta para obtener información gramatical de carácter general. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775125473341-val567oy6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>2. Elementos curriculares</h1>\n<h2>2.1. Competencias Clave y Descriptores Operativos</h2>\n<p style=\"text-align: justify;\">Esta situación de aprendizaje se relaciona con las siguientes Competencias Clave y, a su vez, con algunos de sus Descriptores Operativos:</p>\n<ul>\n<li style=\"text-align: justify;\">Competencia en Comunicación Lingüística: CC1, CCL2, CCL3, CCL5.</li>\n<li style=\"text-align: justify;\">Competencia Plurilingüe: CP1, CP2, CP3.</li>\n<li style=\"text-align: justify;\">Competencia Matemática y Competencia en Ciencia, Tecnología e Ingeniería: STEM1, STEM2, STEM4.</li>\n<li style=\"text-align: justify;\">Competencia Digital: CD1, CD2, CD3, CD4.</li>\n<li style=\"text-align: justify;\">Competencia Personal, Social y de Aprender a Aprender: CPSAA4, CPSAA5.</li>\n<li style=\"text-align: justify;\">Competencia Ciudadana: CC1, CC3.</li>\n<li style=\"text-align: justify;\">Competencia Emprendedora: CE3.</li>\n<li style=\"text-align: justify;\">Competencia en Conciencia y Expresión Culturales: CCEC1.</li>\n</ul>\n<h2>2.2. Competencias Específicas</h2>\n<p style=\"text-align: justify;\"><strong>Competencia específica 1</strong>. Explicar y apreciar la diversidad lingüística del mundo y de Asturias a partir del conocimiento de la realidad lingüística y cultural de nuestra comunidad autónoma y la riqueza de sus lenguas y variantes lingüísticas, así como de la reflexión sobre los fenómenos del contacto entre lenguas, para favorecer la reflexión interlingüística, refutar los estereotipos y<br />prejuicios lingüísticos y valorar esta diversidad como fuente de patrimonio cultural. <br /></p>\n<p style=\"text-align: justify;\"><strong>Competencia específica 2</strong>. Comprender e interpretar textos orales y multimodales en asturiano, con especial atención a los textos académicos y de los medios de comunicación, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emisor y valorando su fiabilidad, su forma y su contenido, para construir conocimiento, formarse opinión y ensanchar las posibilidades de disfrute y ocio. </p>\n<p style=\"text-align: justify;\"><strong>Competencia específica 3</strong>. Producir textos orales y multimodales en asturiano, con atención preferente a textos de carácter académico, con rigor, coherencia, fluidez y el registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales, como para intervenir de manera activa e informada en diferentes contextos sociales. <br /></p>\n<p style=\"text-align: justify;\"><strong>Competencia específica 5</strong>. Producir textos escritos y multimodales en asturiano, coherentes, cohesionados, adecuados y correctos, con especial atención a los géneros discursivos del ámbito académico, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas. </p>\n<p style=\"text-align: justify;\"><strong>Competencia específica 6</strong>. Seleccionar y contrastar información procedente de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual, especialmente en el marco de la realización de trabajos de investigación sobre temas del currículo o vinculados a las obras literarias leídas. </p>\n<p style=\"text-align: justify;\"><strong>Competencia específica 9.</strong> Consolidar y profundizar en el conocimiento explícito y sistemático sobre la estructura de la lengua y sus usos, y reflexionar de manera autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conciencia lingüística, aumentar el repertorio comunicativo y mejorar las destrezas tanto de producción oral y escrita como de recepción crítica. <br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<h2 style=\"text-align: justify;\">2.3. Criterios de Evaluación</h2>\n<p><strong>1.2.</strong> Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, a partir de la exploración y reflexión en torno a los fenómenos del contacto entre lenguas, con especial atención al papel de las redes sociales y los medios de comunicación, y de la investigación sobre los derechos lingüísticos y diversos modelos de convivencia entre lenguas.</p>\n<p style=\"text-align: justify;\"><strong>2.1.</strong> Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales complejos propios de diferentes ámbitos, analizando la interacción entre los diferentes códigos. </p>\n<p style=\"text-align: justify;\"><strong>3.1.</strong> Realizar exposiciones y argumentaciones orales formales en lengua asturiana con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social, ajustándose a las convenciones propias de cada género discursivo y con la fluidez, el rigor, la coherencia y el registro adecuado, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales. </p>\n<p style=\"text-align: justify;\"><strong>5.1</strong>. Elaborar textos académicos coherentes, cohesionados y con el registro adecuado en lengua asturiana en torno a temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal, y de redacción y revisión de borradores entre iguales o utilizando otros instrumentos de consulta.</p>\n<p style=\"text-align: justify;\"><strong>5.2</strong>. Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical, atendiendo especialmente a las posibles interferencias que se puedan dar entre lenguas. <br /></p>\n<p style=\"text-align: justify;\"><strong>6.1.</strong> Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre temas curriculares de interés cultural que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes; calibrar su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual. </p>\n<p style=\"text-align: justify;\"><strong>9.3.</strong> Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas. <br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<h2 style=\"text-align: justify;\">2.4. Saberes básicos</h2>\n<p><strong>Bloque A. <em>Las lenguas y sus hablantes.</em></strong></p>\n<ul>\n<li>Las lenguas de Asturias y sus variedades: desarrollo sociohistórico y situación actual. </li>\n<li>Estrategias avanzadas de la reflexión interlingüística. </li>\n<li>Los fenómenos del contacto entre lenguas: bilingüismo, préstamos, interferencias, hibridación, sustitución.</li>\n</ul>\n<p><strong>Bloque B. <em>Comunicación</em>.</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Interacción oral y escrita de carácter formal. Cooperación conversacional y cortesía lingüística.</li>\n<li style=\"text-align: justify;\">Comprensión oral: sentido global del texto y relación entre sus partes, selección y retención de la información relevante. La intención del emisor.</li>\n<li style=\"text-align: justify;\">Producción oral formal. Planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales. Rasgos discursivos y lingüísticos de la oralidad formal.<br /></li>\n<li style=\"text-align: justify;\">Alfabetización informacional. Búsqueda autónoma y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de la información reelaborada de manera creativa y respetuosa con la propiedad intelectual. La gestión de contenidos, el almacenamiento y la recuperación de la información relevante.</li>\n</ul>\n<p><strong>Bloque D. <em>Reflexión sobre la lengua</em>.</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Construcción de conclusiones propias sobre el sistema lingüístico. Observación, comparación y clasificación de unidades comunicativas. Manipulación de estructuras, formulación de hipótesis, contraejemplos, generalizaciones y contraste entre lenguas con el uso del metalenguaje específico.</li>\n<li style=\"text-align: justify;\">Uso autónomo de diccionarios, manuales de gramática y otras fuentes de consulta para obtener información gramatical de carácter general. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775128074903-mfbzomi8r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775128074903-mfbzomi8r</odePageId>
+      <odeBlockId>block-1775128077835-gwxsbvhjo</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775128074903-mfbzomi8r</odePageId>
+          <odeBlockId>block-1775128077835-gwxsbvhjo</odeBlockId>
+          <odeIdeviceId>idevice-1775128077833-sbbi6c3dn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>3. Metodologías activas</h1>
+<h2>Aprendizaje por proyectos</h2>
+<p style="text-align: justify;">La presente situación de aprendizaje se basa en la consecución de diferentes tareas intermedias con las que se trata de resolver un problema planteado al inicio. De este modo, el reto se cumplirá gracias a los carteles publicitarios y el vídeo final.</p>
+<p style="text-align: justify;"></p>
+<h2 style="text-align: justify;">Visual Thinking</h2>
+<p style="text-align: justify;">Para fulminar el uso del préstamos "bro" en el aula, nuestro alumnado debe familiarizarse con ciertos conceptos gramaticales. Para ello, estos contenidos se trabajarán mediante una infografía, en la que se sintetice y se esquematice la información al mismo tiempo que se recurre a recursos gráficos con lo que se plasme la relación entre dichos conceptos.</p>
+<p style="text-align: justify;"></p>
+<h2 style="text-align: justify;">Trabajo cooperativo</h2>
+<p style="text-align: justify;">Para elaborar los productos finales -los carteles publicitarios y el vídeo-, se recurrirá al trabajo cooperativo. De manera que se asignen diferentes roles dentro de cada equipo. Además, en pos de asegurar que cada miembro del grupo cumpla asuma sus funciones, al final de las sesiones se entregará una lista de cotejo donde se recojan una batería de <em>ítems </em>sobre los que se ha de reflexionar, pues su cumplimiento es sinónimo del buen funcionamiento del grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775128077833-sbbi6c3dn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>3. Metodologías activas</h1>\n<h2>Aprendizaje por proyectos</h2>\n<p style=\"text-align: justify;\">La presente situación de aprendizaje se basa en la consecución de diferentes tareas intermedias con las que se trata de resolver un problema planteado al inicio. De este modo, el reto se cumplirá gracias a los carteles publicitarios y el vídeo final.</p>\n<p style=\"text-align: justify;\"></p>\n<h2 style=\"text-align: justify;\">Visual Thinking</h2>\n<p style=\"text-align: justify;\">Para fulminar el uso del préstamos \"bro\" en el aula, nuestro alumnado debe familiarizarse con ciertos conceptos gramaticales. Para ello, estos contenidos se trabajarán mediante una infografía, en la que se sintetice y se esquematice la información al mismo tiempo que se recurre a recursos gráficos con lo que se plasme la relación entre dichos conceptos.</p>\n<p style=\"text-align: justify;\"></p>\n<h2 style=\"text-align: justify;\">Trabajo cooperativo</h2>\n<p style=\"text-align: justify;\">Para elaborar los productos finales -los carteles publicitarios y el vídeo-, se recurrirá al trabajo cooperativo. De manera que se asignen diferentes roles dentro de cada equipo. Además, en pos de asegurar que cada miembro del grupo cumpla asuma sus funciones, al final de las sesiones se entregará una lista de cotejo donde se recojan una batería de <em>ítems </em>sobre los que se ha de reflexionar, pues su cumplimiento es sinónimo del buen funcionamiento del grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775128942337-jumpvbzdl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775128942337-jumpvbzdl</odePageId>
+      <odeBlockId>block-1775128945377-ql78onrpb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775128942337-jumpvbzdl</odePageId>
+          <odeBlockId>block-1775128945377-ql78onrpb</odeBlockId>
+          <odeIdeviceId>idevice-1775128945375-3kagbz54e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>4. Vinculación con los proyectos y programas del centro</h1>
+<p>Esta situación de aprendizaje engarza con los siguientes proyectos y programas del centro:</p>
+<h2>Plan de Digitalización</h2>
+<p style="text-align: justify;">Se pretende mejorar las capacidades digitales del alumnado mediante el uso de Teams, así como de otra serie de recursos y herramientas informáticas (Word, Excel, Power Point, Canva, Forms, etc.).</p>
+<h2 style="text-align: justify;"><br /></h2>
+<h2>Plan de Lectura, Escritura e Investigación</h2>
+<p>La contribución al PLEI descansa en los siguientes factores:</p>
+<ul>
+<li style="text-align: justify;">Se fomenta la investigación autónoma mediante diferentes tareas en las que el alumnado debe tomar la iniciativa y manejar diferentes fuentes de información: manuales de gramática, vídeos, internet... Todos estos recursos les serán de utilidad para recabar los datos necesarios para el proyecto.</li>
+<li style="text-align: justify;">Tanto la elaboración de reflexiones como el cartel publicitario fortalecerá la competencia relativa a la producción escrita del alumnado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775128945375-3kagbz54e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>4. Vinculación con los proyectos y programas del centro</h1>\n<p>Esta situación de aprendizaje engarza con los siguientes proyectos y programas del centro:</p>\n<h2>Plan de Digitalización</h2>\n<p style=\"text-align: justify;\">Se pretende mejorar las capacidades digitales del alumnado mediante el uso de Teams, así como de otra serie de recursos y herramientas informáticas (Word, Excel, Power Point, Canva, Forms, etc.).</p>\n<h2 style=\"text-align: justify;\"><br /></h2>\n<h2>Plan de Lectura, Escritura e Investigación</h2>\n<p>La contribución al PLEI descansa en los siguientes factores:</p>\n<ul>\n<li style=\"text-align: justify;\">Se fomenta la investigación autónoma mediante diferentes tareas en las que el alumnado debe tomar la iniciativa y manejar diferentes fuentes de información: manuales de gramática, vídeos, internet... Todos estos recursos les serán de utilidad para recabar los datos necesarios para el proyecto.</li>\n<li style=\"text-align: justify;\">Tanto la elaboración de reflexiones como el cartel publicitario fortalecerá la competencia relativa a la producción escrita del alumnado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775130228826-db9j1397z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775130228826-db9j1397z</odePageId>
+      <odeBlockId>block-1775130231903-b1jpyhsnu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775130228826-db9j1397z</odePageId>
+          <odeBlockId>block-1775130231903-b1jpyhsnu</odeBlockId>
+          <odeIdeviceId>idevice-1775130231901-miq7jzb79</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>5. Actividades complementarias y extraescolares</h1>
+<p style="text-align: justify;">Esta situación de aprendizaje no se vincula a ninguna actividad complementaria ni extraescolar ya planteada. Sin embargo, una de las partes primordiales del aprendizaje por proyectos y la difusión de los productos finales. Por tanto, los carteles publicitarios, así como el vídeo resultantes podrán ser compartidos con el profesado para asegurar que el mensaje se irradie por los alumnos y alumnas del centro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775130231901-miq7jzb79","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>5. Actividades complementarias y extraescolares</h1>\n<p style=\"text-align: justify;\">Esta situación de aprendizaje no se vincula a ninguna actividad complementaria ni extraescolar ya planteada. Sin embargo, una de las partes primordiales del aprendizaje por proyectos y la difusión de los productos finales. Por tanto, los carteles publicitarios, así como el vídeo resultantes podrán ser compartidos con el profesado para asegurar que el mensaje se irradie por los alumnos y alumnas del centro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775385436472-750ac9umo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775385436472-750ac9umo</odePageId>
+      <odeBlockId>block-1775386244163-3fh8k0gqe</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775385436472-750ac9umo</odePageId>
+          <odeBlockId>block-1775386244163-3fh8k0gqe</odeBlockId>
+          <odeIdeviceId>idevice-1775386244162-a8hao2sw3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">L'intierru del "bro"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mario García Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
